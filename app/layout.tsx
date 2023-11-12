@@ -1,23 +1,32 @@
-import type { Metadata } from 'next'
-import { Inter, Space_Grotesk } from 'next/font/google'
-import './globals.css'
+import type { Metadata } from "next";
+import { Inter, Space_Grotesk } from "next/font/google";
+import "./globals.css";
+import Navbar from "@/components/Navbar";
 
-const inter = Inter({ subsets: ['latin'] })
-const spaceGrotesk = Space_Grotesk({ subsets: ['latin'], weight:['300','400','500','600','700',] })
+const inter = Inter({ subsets: ["latin"] });
+const spaceGrotesk = Space_Grotesk({
+  subsets: ["latin"],
+  weight: ["300", "400", "500", "600", "700"],
+});
 
 export const metadata: Metadata = {
-  title: 'Price Rover',
-  description: 'Your new best helper.',
-}
+  title: "Price Rover",
+  description: "Compare and track prices like never before.",
+};
 
 export default function RootLayout({
   children,
 }: {
-  children: React.ReactNode
+  children: React.ReactNode;
 }) {
   return (
     <html lang="en">
-      <body className={inter.className}>{children}</body>
+      <body className={inter.className}>
+        <main className="max-w-10xl mx-auto">
+          <Navbar />
+          {children}
+        </main>
+      </body>
     </html>
-  )
+  );
 }
