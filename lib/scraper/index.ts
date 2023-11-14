@@ -44,7 +44,7 @@ export async function scrapeAmazonProduct(url: string) {
             $('.a-size-base.a-color-price')
         )
 
-        const isOutOfStock = $('#availability span').text().trim().toLowerCase() === 'currently unavailable';
+        const outOfStock = $('#availability span').text().trim().toLowerCase() === 'currently unavailable';
 
         const images =
             $('#imgBlkFront').attr('data-a-dynamic-image') ||
@@ -72,7 +72,7 @@ export async function scrapeAmazonProduct(url: string) {
             category:'category',
             reviewsCount: 100,
             stars: 4.5,
-            isOutOfStock,
+            isOutOfStock: outOfStock,
             description,
             lowestPrice: Number(currentPrice) || Number(originalPrice),
             highestPrice: Number(originalPrice) || Number(currentPrice),
