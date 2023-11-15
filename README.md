@@ -27,7 +27,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/elviraIv/price-rover-web-scraping-app">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="public/assets/icons/logo.svg" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">PriceRover Web Scraping App</h3>
