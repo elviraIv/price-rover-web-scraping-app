@@ -26,7 +26,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/elviraIv/price-rover-web-scraping-app">
+  <a href="[https://github.com/elviraIv/price-rover-web-scraping-app](https://price-rover-web-scraping-app.vercel.app/)">
     <img src="public/assets/icons/logo.svg" alt="Logo" width="80" height="80">
   </a>
 
@@ -82,7 +82,7 @@ Elevate each purchase into a savvy decision with PriceRover.
 
 <br />
 <div align="center">
-  <a href="https://github.com/elviraIv/price-rover-web-scraping-app">
+  <a href="[https://github.com/elviraIv/price-rover-web-scraping-app](https://price-rover-web-scraping-app.vercel.app/)">
     <img src="public/assets/images/overoll.jpg" alt="project" >
   </a>
 
