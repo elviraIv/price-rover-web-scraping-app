@@ -77,7 +77,7 @@
 Elevate each purchase into a savvy decision with PriceRover.
 
 <br />
-<div align="center">
+<div align="left">
   <a href="https://price-rover-web-scraping-app.vercel.app/">
     <img src="public/assets/images/overoll.jpg" alt="project" >
   </a>
@@ -100,19 +100,22 @@ Elevate each purchase into a savvy decision with PriceRover.
 
 <!-- GETTING STARTED -->
 ## Getting Started
-
+<p align="left">
 This is an example of how you may give instructions on setting up your project locally.
 To get a local copy up and running follow these simple example steps.
+</p>
 
 ### Prerequisites
+<p align="left">
 
 This is an example of how to list things you need to use the software and how to install them.
-* npm
+
   ```sh
   npm install npm@latest -g
   ```
 
 ### Installation
+<p align="left">
 
 1. Get a free API Key at https://brightdata.com
 2. Get a free API Key at https://www.mongodb.com/atlas
@@ -131,6 +134,7 @@ This is an example of how to list things you need to use the software and how to
    MONGODB_URI='ENTER YOUR MONGODB URI';
 
    ```
+</p>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -154,7 +158,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 <!-- ROADMAP -->
 ## Roadmap
 
-- [ ]  Implement core features
+- [ ] Implement core features
 - [ ] Implement additional product information.
 - [ ] Implement alerts via email
 - [ ] Integration with other e-commerce platforms.
