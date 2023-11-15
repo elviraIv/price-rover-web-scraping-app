@@ -82,8 +82,8 @@ Elevate each purchase into a savvy decision with PriceRover.
 
 <br />
 <div align="center">
-  <a href="https://github.com/elviraIv/social-sphere-app">
-    <img src="public/assets/images/overoll.jpg" alt="project" width="260" >
+  <a href="https://github.com/elviraIv/price-rover-web-scraping-app">
+    <img src="public/assets/images/overoll.jpg" alt="project" >
   </a>
 
 
