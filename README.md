@@ -235,6 +235,6 @@ Project Link: https://price-rover-web-scraping-app.vercel.app/
 [issues-shield]: https://img.shields.io/github/issues/elviraIv/price-rover-web-scraping-app.svg?style=for-the-badge
 [issues-url]: https://github.com/elviraIv/price-rover-web-scraping-app/issues
 [license-shield]: https://img.shields.io/github/license/elviraIv/price-rover-web-scraping-app.svg?style=for-the-badge
-[license-url]: https://github.com/elviraIv/price-rover-web-scraping-app/blob/master/LICENSE.txt
+[license-url]: https://github.com/elviraIv/price-rover-web-scraping-app/blob/main/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/elvira-ivanova/
