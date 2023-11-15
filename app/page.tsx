@@ -24,7 +24,7 @@ const Home = async () => {
 
             <h1 className="head-text">
               Get The Best Bargains With
-              <span className="text-primary"> PriceRover</span>
+              <span className="text-black"> Price<span className="text-primary">Rover</span></span>
             </h1>
 
             <p className="mt-6">

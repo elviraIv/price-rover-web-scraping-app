@@ -12,6 +12,7 @@ const spaceGrotesk = Space_Grotesk({
 export const metadata: Metadata = {
   title: "Price Rover",
   description: "Compare and track prices like never before.",
+  
 };
 
 export default function RootLayout({
