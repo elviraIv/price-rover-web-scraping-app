@@ -33,7 +33,7 @@
 <h3 align="center">PriceRover Web Scraping App</h3>
 
   <p align="center">
-    PriceRover helps you to make informed purchasing decisions by automatically gathering and comparing prices across Amazon's vast marketplace.
+    PriceRover helps you make informed purchasing decisions by automatically gathering and comparing prices across Amazon's vast marketplace.
     <br />
     <a href="https://github.com/elviraIv/price-rover-web-scraping-app"><strong>Explore the docs »</strong></a>
     <br />
@@ -80,7 +80,11 @@
 ## About The Project
 Elevate each purchase into a savvy decision with PriceRover.
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+<br />
+<div align="center">
+  <a href="https://github.com/elviraIv/social-sphere-app">
+    <img src="public/assets/images/overoll.jpg" alt="project" width="260" >
+  </a>
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
