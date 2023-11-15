@@ -13,7 +13,7 @@ const Home = async () => {
         <div className="flex max-xl:flex-col gap-16">
           <div className="flex flex-col justify-center">
             <p className="small-text">
-              Smart Shopping Starts Here
+              Comparing Prices Starts Here
               <Image
                 src="/assets/icons/arrow-right.svg"
                 alt="arrow-right"
@@ -23,13 +23,12 @@ const Home = async () => {
             </p>
 
             <h1 className="head-text">
-              Unleash the Power of
+              Get The Best Bargains With
               <span className="text-primary"> PriceRover</span>
             </h1>
 
             <p className="mt-6">
-              Powerful, self-serve product and growth analytics to help you
-              convert, engage, and retain more.
+              Enjoy our analytics tool, designed to assist you in making the right decisions. Paste your product's amazon link and comprare prices.
             </p>
 
             <SearchBar />

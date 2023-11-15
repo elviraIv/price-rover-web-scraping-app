@@ -69,6 +69,10 @@ const Modal = ({ productId }:Props) => {
                         height={28}
                       />
                     </div>
+                    <div className="dialog-head_text">
+                    <span className="text-">Price<span className="text-primary">Rover</span></span>
+
+                    </div>
 
                     <Image
                       src="/assets/icons/x-close.svg"
